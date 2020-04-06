@@ -1,13 +1,8 @@
 Package: iDiagrams
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Title: Win Loss Diagrams for SAP
+Version: 0.1.0
+Authors@R:  person('matthew', 'brierley', email = 'matthew.brierley@ext.idorsia.com', role = c('cre', 'aut'))
+Description: Win Loss Diagrams for SAP
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
